@@ -1,0 +1,3 @@
+# Katas
+
+Personal notes

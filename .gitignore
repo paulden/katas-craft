@@ -1,0 +1,6 @@
+# Python
+venv/
+*.pyc
+
+# JetBrains
+.idea/
