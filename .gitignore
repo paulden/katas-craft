@@ -4,3 +4,14 @@ venv/
 
 # JetBrains
 .idea/
+*.iml
+
+# Java
+target/
+.classpath
+.project
+bin/
+.settings/
+out/
+.gradle/
+build/
